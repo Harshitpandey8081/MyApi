@@ -1,0 +1,12 @@
+/Users/harshitpandey/MyApi/publish/MyApi
+/Users/harshitpandey/MyApi/publish/appsettings.Development.json
+/Users/harshitpandey/MyApi/publish/appsettings.json
+/Users/harshitpandey/MyApi/publish/MyApi.dll
+/Users/harshitpandey/MyApi/publish/MyApi.deps.json
+/Users/harshitpandey/MyApi/publish/MyApi.runtimeconfig.json
+/Users/harshitpandey/MyApi/publish/MyApi.pdb
+/Users/harshitpandey/MyApi/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/harshitpandey/MyApi/publish/Microsoft.OpenApi.dll
+/Users/harshitpandey/MyApi/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/harshitpandey/MyApi/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/harshitpandey/MyApi/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
